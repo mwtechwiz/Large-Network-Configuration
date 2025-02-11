@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT20.jpg?raw=true" alt="Traffic Examination"/>
 </p>
 
 <h1>Large Network Configuration in Cisco Packet Tracer</h1>
