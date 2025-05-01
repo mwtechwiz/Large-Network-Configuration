@@ -16,6 +16,7 @@ In this tutorial, I will configure a large network between three sites using 20 
 - Windows 11
 
 <h2>High-Level Steps</h2>
+
  1. Device Placement
 - Place all routers, switches, servers, and PCs in logical groups by site.
 
