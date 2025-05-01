@@ -42,7 +42,7 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
 - Enable routing on multilayer switches for inter-VLAN communication.
 
 5. Routing Configuration
-- Configure routing tables on routers (either Static or Dynamic via OSPF/EIGRP).
+- Configure routing tables on routers.
 - Ensure all routers can reach each other's subnets.
 
  6. **Server Setup**
@@ -53,7 +53,6 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
  7. Testing
 - Ping across VLANs and subnets.
 - Use web browsers from PCs to access HTTP server.
-- Use `nslookup` or DNS tools to test name resolution.
 
 <h2>Actions and Observations</h2>
 
