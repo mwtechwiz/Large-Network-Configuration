@@ -26,6 +26,7 @@ In this tutorial, I will configure a large network between three sites using 20 
 <p>
   
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT1.jpg)
+- Place all routers, switches, servers, and PCs in logical groups by site.
   
 ![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/f2f3878e-044a-4133-b53e-9cdedd97ddfc)
 </p>
