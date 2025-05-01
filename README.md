@@ -58,20 +58,24 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
 <h2>Actions and Observations</h2>
 
 <p>
-  
+  - Place all routers, switches, servers, and PCs in logical groups by site.
+ 
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT1.jpg)
-- Place all routers, switches, servers, and PCs in logical groups by site.
+
+- Use straight-through cables for end device connections.
+- Use crossover cables for switch-router connections and switch-switch trunk links.
+- Use serial DCE/DTE connections between routers.
   
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT2.jpg)
 </p>
 <p>
-- Use straight-through cables for end device connections.
-- Use crossover cables for switch-router connections and switch-switch trunk links.
-- Use serial DCE/DTE connections between routers.
 </p>
 <br />
 
 <p>
+
+
+Assign static IPs to routers, servers, and management interfaces. Using CLI command "show ip inter brief" we see the table showcasing ports and their connectivity.
   
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT3.jpg)
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT4.jpg)
@@ -80,7 +84,7 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/Pt10.jpg)
 </p>
 <p>
-Assign static IPs to routers, servers, and management interfaces. Using CLI command "show ip inter brief" we see the table showcasing ports and their connectivity.
+
 
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT11.jpg)
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT12.jpg)
