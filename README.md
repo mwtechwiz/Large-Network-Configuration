@@ -80,6 +80,8 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/Pt10.jpg)
 </p>
 <p>
-Assign static IPs to routers, servers, and management interfaces.
+Assign static IPs to routers, servers, and management interfaces. Using CLI command "show ip inter brief" we see the table showcasing ports and their connectivity.
+
+ ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT12.jpg)
 </p>
 <br />
