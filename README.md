@@ -62,18 +62,20 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT1.jpg)
 - Place all routers, switches, servers, and PCs in logical groups by site.
   
-![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/f2f3878e-044a-4133-b53e-9cdedd97ddfc)
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT2.jpg)
 </p>
 <p>
-We create resources and download wireshark to observe the traffic.
+- Use straight-through cables for end device connections.
+- Use crossover cables for switch-router connections and switch-switch trunk links.
+- Use serial DCE/DTE connections between routers.
 </p>
 <br />
 
 <p>
   
-![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/49b7c684-9af7-4ba9-8042-29b7becfa82e)
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT3.jpg)
 </p>
 <p>
-Here we open up wireshark and type in the filter bar to filter ICMP, SSH, DHCP, DNS, AND RDP traffic.
+Assign static IPs to routers, servers, and management interfaces.
 </p>
 <br />
