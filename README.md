@@ -37,15 +37,13 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
 - Use DHCP servers for dynamic IPs on PCs.
 
  4. VLAN and Inter-VLAN Setup
-- Create VLANs per site on access and multilayer switches.
-- Assign switchports to respective VLANs.
 - Enable routing on multilayer switches for inter-VLAN communication.
 
 5. Routing Configuration
 - Configure routing tables on routers.
 - Ensure all routers can reach each other's subnets.
 
- 6. **Server Setup**
+ 6. Server Setup
 - Configure DHCP to serve client PCs.
 - Configure DNS (e.g., Bing.com resolves to 192.168.5.2).
 - Configure HTTP server (e.g., Google.com on 192.168.5.3).
@@ -95,7 +93,15 @@ Assign static IPs to routers, servers, and management interfaces. Using CLI comm
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT13.jpg)
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT14.jpg)
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT15.jpg)
- 
+
+- Ping across VLANs and subnets.
+- Use web browsers from PCs to access HTTP server.
+- Here we are showcasing successful packets traveling from router to router. You can see the table in the right corner.
+
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT19.jpg)
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT20.jpg)
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT%2021.jpg)
+
  
 </p>
 <br />
