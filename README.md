@@ -2,7 +2,7 @@
 <img src="https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT20.jpg?raw=true" alt="Traffic Examination"/>
 </p>
 
-<h1>Large Network Configuration in Cisco Packet Tracer</h1>
+<h1>Large Network Configuration</h1>
 
 This project demonstrates the configuration of a large enterprise network in Cisco Packet Tracer, consisting of:
 - 20 PCs
@@ -17,7 +17,7 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
 <h2>Environments and Technologies Used</h2>
 
 - Cisco Packet Tracer
-- Cisco CLI Commands
+- Cisco IOS
 
 <h2>Operating Systems Used </h2>
 
