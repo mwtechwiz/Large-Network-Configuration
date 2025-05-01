@@ -25,7 +25,7 @@ In this tutorial, I will configure a large network between three sites using 20 
 
 <p>
   
-![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/b45234ca-8f84-4007-8ad2-89d7653eaab8)
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT1.jpg)
   
 ![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/f2f3878e-044a-4133-b53e-9cdedd97ddfc)
 </p>
