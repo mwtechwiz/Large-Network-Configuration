@@ -74,6 +74,10 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
 <p>
   
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT3.jpg)
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT4.jpg)
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT5.jpg)
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT%207.jpg)
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/Pt10.jpg)
 </p>
 <p>
 Assign static IPs to routers, servers, and management interfaces.
