@@ -82,6 +82,17 @@ The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site com
 <p>
 Assign static IPs to routers, servers, and management interfaces. Using CLI command "show ip inter brief" we see the table showcasing ports and their connectivity.
 
+![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT11.jpg)
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT12.jpg)
+
+- Configure DHCP to serve client PCs.
+- Configure DNS (e.g., Bing.com resolves to 192.168.5.2).
+- Configure HTTP server (e.g., Google.com on 192.168.5.3).
+- 
+ ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT13.jpg)
+ ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT14.jpg)
+ ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT15.jpg)
+ 
+ 
 </p>
 <br />
