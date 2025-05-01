@@ -3,6 +3,7 @@
 </p>
 
 <h1>Large Network Configuration in Cisco Packet Tracer</h1>
+
 This project demonstrates the configuration of a large enterprise network in Cisco Packet Tracer, consisting of:
 - 20 PCs
 - 6 Access Switches
@@ -94,8 +95,7 @@ Assign static IPs to routers, servers, and management interfaces. Using CLI comm
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT14.jpg)
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT15.jpg)
 
-- Ping across VLANs and subnets.
-- Use web browsers from PCs to access HTTP server.
+- Router command "show ip route" showcases the routing table with directly connected routes.
 - Here we are showcasing successful packets traveling from router to router. You can see the table in the right corner.
 
 ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT19.jpg)
