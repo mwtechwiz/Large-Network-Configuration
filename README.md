@@ -3,7 +3,14 @@
 </p>
 
 <h1>Large Network Configuration in Cisco Packet Tracer</h1>
-In this tutorial, I will configure a large network between three sites using 20 PCs, 6 switches, 4 multilayer switches, 4 servers, and 3 routers. <br />
+This project demonstrates the configuration of a large enterprise network in Cisco Packet Tracer, consisting of:
+- 20 PCs
+- 6 Access Switches
+- 4 Multilayer Switches
+- 4 Servers (DHCP, DNS, HTTP)
+- 3 Routers (connecting 3 Sites)
+
+The setup includes dynamic IP allocation, inter-VLAN routing, and cross-site communication. <br />
 
 
 <h2>Environments and Technologies Used</h2>
