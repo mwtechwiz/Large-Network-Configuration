@@ -16,10 +16,36 @@ In this tutorial, I will configure a large network between three sites using 20 
 - Windows 11
 
 <h2>High-Level Steps</h2>
+ 1. Device Placement
+- Place all routers, switches, servers, and PCs in logical groups by site.
 
-- Create Resources
-- Observe ICMP & SSH Traffic
-- Observe DHCP & DNS & RDP Traffic
+ 2. Cabling
+- Use straight-through cables for end device connections.
+- Use crossover cables for switch-router connections and switch-switch trunk links.
+- Use serial DCE/DTE connections between routers.
+
+ 3. IP Configuration
+- Assign static IPs to routers, servers, and management interfaces.
+- Use DHCP servers for dynamic IPs on PCs.
+
+ 4. VLAN and Inter-VLAN Setup
+- Create VLANs per site on access and multilayer switches.
+- Assign switchports to respective VLANs.
+- Enable routing on multilayer switches for inter-VLAN communication.
+
+5. Routing Configuration
+- Configure routing tables on routers (either Static or Dynamic via OSPF/EIGRP).
+- Ensure all routers can reach each other's subnets.
+
+ 6. **Server Setup**
+- Configure DHCP to serve client PCs.
+- Configure DNS (e.g., Bing.com resolves to 192.168.5.2).
+- Configure HTTP server (e.g., Google.com on 192.168.5.3).
+
+ 7. Testing
+- Ping across VLANs and subnets.
+- Use web browsers from PCs to access HTTP server.
+- Use `nslookup` or DNS tools to test name resolution.
 
 <h2>Actions and Observations</h2>
 
