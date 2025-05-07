@@ -94,6 +94,8 @@ Assign static IPs to routers, servers, and management interfaces. Using CLI comm
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT13.jpg)
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT14.jpg)
  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT15.jpg)
+  ![image](https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT22.png)
+
 
 - Router command "show ip route" showcases the routing table with directly connected routes.
 - Here we are showcasing successful packets traveling from router to router. You can see the table in the right corner.
