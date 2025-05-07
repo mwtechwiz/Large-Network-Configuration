@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT20.jpg?raw=true" alt="Traffic Examination"/>
+<img src="https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT23.png"/>
 </p>
 
 <h1>Large Network Configuration</h1>
